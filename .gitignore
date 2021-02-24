@@ -339,6 +339,12 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
-
+# ----------------------------------------------------
 # User-Added Files
-/Operating System.sln
+Operating System.sln
+/Operating System/'Operating System'.vcxproj
+/Operating System/Operating System.vcxproj.filters
+/Operating System/Bootloader/*.bxrc
+/Operating System/Bootloader/*.bat
+/Operating System/Bootloader/*.flp
+/Operating System/Bootloader/*.bin
